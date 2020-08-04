@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Headings</title>
+</head>
+<body>
+	<h1>Main header</h1>
+	<h2>Subheader 2</h2>
+	<h3>Subheader 3</h3>
+	<h4>Subheader 4</h4>
+	<h5>Subheader 5</h5>
+	<h6>Subheader 6</h6>
+</body>
+</html>
